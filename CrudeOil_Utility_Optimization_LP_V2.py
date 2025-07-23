@@ -467,8 +467,9 @@ for flow in component_per_flow:
 divisors = ['D101', 'D102', 'D103', 'D104', 'D105', 'D106', 'D107', 'D108',
                        'D109', 'D110', 'D111', 'D112']
 
-# !!! 
+# FIXME:  
 # Divisors ar working like destilation towers.
+# A solution using binary varuables for determining divisor can be done.
 for unit in divisors:
     list_comp_unit = []
     for flow_in in flows_per_unit['IN'][unit]:
