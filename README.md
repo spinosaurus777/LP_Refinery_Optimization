@@ -17,7 +17,7 @@ or components without having to go through significant changes.
 At the moment, it is getting a optimal solution with feasibility problems in three constrains. These
 contrains being the ones regarding the first group of divisors that process multiple components. 
 These divisor are behaving like destilations towers followed by divisors. This could be easily be
-solved by using a non-linear approach. But I belive that a solution using binary variables is possible.
+solved by using a non-linear approach. But I believe that a solution using binary variables is possible.
 
 
 
